@@ -8,7 +8,7 @@
           <li><a class="home_link" title="خانه" href="{{route('client.home')}}">خانه</a></li>
 
             @foreach ($categories as $category)
-                <li class="dropdown"><a href="category.html">{{$category->title}}</a>
+                <li class="dropdown"><a href="#">{{$category->title}}</a>
                     @if ($category->childrens()->count() > 0)
                         <div class="dropdown-menu">
                         <ul>
@@ -23,7 +23,7 @@
                                         <div class="dropdown-menu">
                                             <ul>
                                                 @foreach ($item->childrens as $subcategory)
-                                                    <li><a href="category.html">{{$subcategory->title}} </a> </li>
+                                                    <li><a href="#">{{$subcategory->title}} </a> </li>
                                                 @endforeach
 
                                             </ul>
