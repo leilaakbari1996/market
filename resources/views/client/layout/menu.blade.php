@@ -14,7 +14,7 @@
                         <ul>
                             @foreach ($category->childrens as $item)
                                 <li>
-                                    <a href="category.html">{{$item->title}}
+                                    <a href="#">{{$item->title}}
                                         @if ($item->childrens()->count() > 0)
                                         <span>&rsaquo;</span>
                                         @endif
