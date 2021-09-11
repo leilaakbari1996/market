@@ -13,10 +13,7 @@
                     <div class="dropdown-menu">
                       <ul>
                         <li><a href="category.html">زیردسته ها </a> </li>
-                        <li><a href="category.html">زیردسته ها </a> </li>
-                        <li><a href="category.html">زیردسته ها </a> </li>
-                        <li><a href="category.html">زیردسته ها </a> </li>
-                        <li><a href="category.html">زیردسته جدید </a> </li>
+
                       </ul>
                     </div>
                   </li>
@@ -25,12 +22,11 @@
                     <div class="dropdown-menu">
                       <ul>
                         <li><a href="category.html">زیردسته ها </a></li>
-                        <li><a href="category.html">زیردسته جدید</a></li>
-                        <li><a href="category.html">زیردسته جدید</a></li>
+
                       </ul>
                     </div>
                   </li>
-                  <li><a href="category.html">پسرانه</a></li>
+
                   <li><a href="category.html">نوزاد</a></li>
                   <li><a href="category.html">لوازم <span>&rsaquo;</span></a>
                     <div class="dropdown-menu">
