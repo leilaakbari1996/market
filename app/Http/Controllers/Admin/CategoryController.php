@@ -31,6 +31,7 @@ class CategoryController extends Controller
         return view('Admin.category.create',[
             'categories' => Category::all()
         ]);
+
     }
 
     /**
