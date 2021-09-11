@@ -218,8 +218,6 @@
     </div>
     <!-- /.sidebar -->
   </aside>
-
-
   @yield('content')
   <footer class="main-footer">
     <strong>CopyLeft &copy; 2018 <a href="http://github.com/leilaakbari1996/">لیلا اکبری</a>.</strong>
